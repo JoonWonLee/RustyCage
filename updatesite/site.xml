@@ -3,9 +3,8 @@
    <description name="RustyCage update site" url="http://reidarsollid.github.com/RustyCage/updatesite/site.xml">
       A Rust IDE plugin
    </description>
-   <feature url="features/org.baksia.rustycage.feature_1.0.1.201203241035.jar" id="org.baksia.rustycage.feature" version="1.0.1.201203241035">
+   <feature url="features/org.baksia.rustycage.feature_1.0.1.201203250007.jar" id="org.baksia.rustycage.feature" version="1.0.1.201203250007">
       <category name="Language IDE"/>
    </feature>
-   <feature url="features/org.baksia.rustycage.feature_1.0.1.qualifier.jar" id="org.baksia.rustycage.feature" version="1.0.1.qualifier"/>
    <category-def name="Language IDE" label="Rust"/>
 </site>
