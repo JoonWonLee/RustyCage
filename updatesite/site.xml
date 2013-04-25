@@ -3,7 +3,7 @@
    <description name="RustyCage update site" url="http://reidarsollid.github.com/RustyCage/updatesite/site.xml">
       A Rust IDE plugin
    </description>
-   <feature url="features/rustycage-feature_1.0.2.201304231630.jar" id="rustycage-feature" version="1.0.2.201304231630">
+   <feature url="features/rustycage-feature_1.0.2.201304250018.jar" id="rustycage-feature" version="1.0.2.201304250018">
       <category name="Language IDE"/>
    </feature>
    <category-def name="Language IDE" label="Rust"/>
